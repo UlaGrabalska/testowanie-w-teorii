@@ -1,1 +1,1 @@
-W tym repozytorium chciałabym przedstawić moje testowanie w teorii.
+W tym repozytorium chciałabym przedstawić moje testowanie w oparciu o teorię.
